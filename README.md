@@ -33,7 +33,7 @@ YOLOv8 and generates bounding-box annotations.
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/visionTag.git
+git clone https://github.com/TiyashaRoy/visionTag.git
 
 Move into the project folder:
 
@@ -66,4 +66,4 @@ visionTag/
 
 ## Author
 
-Your Name
+Tiyasha Roy
